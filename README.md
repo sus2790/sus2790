@@ -1,16 +1,16 @@
-### Hi there 👋
+# 你好，我叫 ``(點點) 👋
 
-<!--
-**sus2790/sus2790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🫵 關於我
 
-Here are some ideas to get you started:
+我是一位自學的 Python 工程師。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 專注於開發 [Dynamic Voice](https://github.com/sus2790/Dynamic-Voice) Discord 機器人。
+
+## 📞 聯絡我
+
+- 請在 [Discord](https://discord.com/) 傳送訊息給 @rip_it_777 (``#2790) 或是加入 [這個伺服器](https://discord.gg/hgwtHmEp5a)。
+
+## 📊 Github Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sus2790)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sus2790&layout=compact)
