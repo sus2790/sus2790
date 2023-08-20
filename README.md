@@ -8,7 +8,7 @@
 
 ## 📞 聯絡我
 
-- 請在 [Discord](https://discord.com/) 傳送訊息給 @rip_it_777 (``#2790) 或是加入 [這個伺服器](https://discord.gg/hgwtHmEp5a)。
+- 請在 [Discord](https://discord.com/) 傳送訊息給 @pan._.python (``#2790) 或是加入 [這個伺服器](https://discord.gg/hgwtHmEp5a)。
 
 ## 📊 Github Stats
 
